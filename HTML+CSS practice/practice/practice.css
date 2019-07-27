@@ -1,0 +1,32 @@
+body{
+    background-color: lightgreen !important;
+}
+
+.container{
+    background-color: white;
+    margin-left: 33%!important;
+    margin-right: 33%!important;
+    margin-top: 20%!important;
+    padding-top:2%!important;
+    width: 33%!important;
+    height: 40%;   
+}
+.col-md-offset-2{
+    margin-bottom: 7%;
+}
+
+button{
+    width:100%
+}
+
+input{
+    width:100%
+}
+
+span{
+    color: green;
+}
+
+.box{
+    margin-top: 20px;
+}

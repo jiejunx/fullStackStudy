@@ -1,0 +1,19 @@
+nav{
+  display: inline-block;
+  vertical-align: top;
+  width: 25%;
+  border: 2px solid pink;
+
+}
+
+
+.column{
+  display: inline-block;
+  vertical-align: top;
+  width: 75%;
+  border: 2px solid yellow;
+
+}
+.container{
+  border: 2px solid green;
+}
